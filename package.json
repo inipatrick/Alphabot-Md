@@ -1,7 +1,7 @@
 {
-  "name": "Alphabot-Md",
+  "name": "MonenaPSbot",
   "version": "1.1.5",
-  "description": "Alphabot Md, Only update in YouTube ZEEONE OFC",
+  "description": "MonenaPSbot, Only update in YouTube ZEEONE OFC",
   "main": "zeeone.js",
   "license": "MIT",
   "scripts": {
@@ -14,7 +14,7 @@
     "base",
     "baileys-md"
   ],
-  "author": "ZeeoneOfc",
+  "author": "Fadill",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:zeeone-ofc/baileys",
